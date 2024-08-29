@@ -1,6 +1,8 @@
+# crackmes
+
 Repo containing CTFs, Crackmes, or Cyber Challenges I've taken or been a part of in my free time.
 
-# Crackmes.one
+## Crackmes.one
 
 CTF Challenges from the site [crackmes.one](https://www.crackmes.one). Please see the "Writeups" folder for my writeup of the specific challenge. Note that it contains spoliers, so don't look if you want to attempt these yourself. I've also included .gzf files which you can import in [Ghidra](https://github.com/NationalSecurityAgency/ghidra) to see any comments I've made.
 
@@ -9,11 +11,11 @@ CTF Challenges from the site [crackmes.one](https://www.crackmes.one). Please se
 
 Note: These challenges were chosen randomly by searching the site and picking ones I found interesting, there is no meaning behind the ones I've done.
 
-# CISA.gov President's Cup Cybersecurity Competition Challenges
+## CISA.gov President's Cup Cybersecurity Competition Challenges
 
 Participated in the [RIT Challenge](https://expo.cisa.gov/gb/game/65da662f1f3d4d408e1519bc96d0e2cb) with 1787 points.
 
-# AIS "Can you hack it?" Challenges
+## AIS "Can you hack it?" Challenges
 
 The company AIS (Assured Information Security) offers a recruiting site ["Can you hack it?"](https://hack.ainfosec.com/) which offers hacking challenges in various categories. Here are the ones I've completed:
 
