@@ -4,7 +4,7 @@ Repo containing CTFs, Crackmes, or Cyber Challenges I've taken or been a part of
 
 CTF Challenges from the site [crackmes.one](https://www.crackmes.one). Please see the "Writeups" folder for my writeup of the specific challenge. Note that it contains spoliers, so don't look if you want to attempt these yourself. I've also included .gzf files which you can import in [Ghidra](https://github.com/NationalSecurityAgency/ghidra) to see any comments I've made.
 
-[Grandfather Clock](https://crackmes.one/crackme/60db74bb33c5d410b88430dc) by lodsb
+[Grandfather Clock](https://crackmes.one/crackme/60db74bb33c5d410b88430dc) by lodsb\
 [jumpjumpjump](https://crackmes.one/crackme/5c1a939633c5d41e58e005d1) by cbm-hackers
 
 Note: These challenges were chosen randomly by searching the site and picking ones I found interesting, there is no meaning behind the ones I've done.
