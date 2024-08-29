@@ -29,7 +29,9 @@ The 28 bytes at 0x00102020 with 0x20 added to it results in the string: `}04lc0c
 
 Doing the reverse of the scrambling shown above results in the flag: `CTFlag{_H4rm0n1c_0sc1ll4t0r}`
 
-./grandfather_clock 'CTFlag{_H4rm0n1c_0sc1ll4t0r}'
+```
+./grandfather_clock 'CTFlag{_H4rm0n1c_0sc1ll4t0r}'\
 Congratulations! You've cracked the code!
+```
 
-.gzf included in this repo, the view in Ghidra, create a new project, go to File -> Import File then select the .gzf
+.gzf included in this repo, to view in Ghidra, create a new project, go to File -> Import File then select the .gzf
