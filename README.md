@@ -8,8 +8,8 @@ CTF Challenges from the site [crackmes.one](https://www.crackmes.one). Please se
 
 [Grandfather Clock](https://crackmes.one/crackme/60db74bb33c5d410b88430dc) by lodsb\
 [jumpjumpjump](https://crackmes.one/crackme/5c1a939633c5d41e58e005d1) by cbm-hackers\
-[SSE Login](https://crackmes.one/crackme/65a81968eef082e477ff5d10) by 5iriu5
-[simple ctf](https://crackmes.one/crackme/66ee30341070323296555610) by slice
+[SSE Login](https://crackmes.one/crackme/65a81968eef082e477ff5d10) by 5iriu5\
+[simple ctf](https://crackmes.one/crackme/66ee30341070323296555610) by slice\
 [baby's first crackme](https://crackmes.one/crackme/66736380e7b35c09bb266f92) by mystic_rust
 
 Note: These challenges were chosen randomly by searching the site and picking ones I found interesting, there is no meaning behind the ones I've done.
